@@ -1,0 +1,244 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.15f2c1 (b25d0e34ed8a) revision 11689230'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home China; OS build 19042.1237; Version 2009; 64bit' Language: 'zh' Physical Memory: 8036 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.15f2c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/S1596/Desktop/Project/Self/FlappyBird
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63830
+Successfully changed project path to: C:/Users/S1596/Desktop/Project/Self/FlappyBird
+C:/Users/S1596/Desktop/Project/Self/FlappyBird
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 38.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.15f2c1 (b25d0e34ed8a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.15f2c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/S1596/Desktop/Project/Self/FlappyBird/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.6231
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.15f2c1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.15f2c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.15f2c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56512
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.15f2c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001497 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 36.23 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.910 seconds
+Domain Reload Profiling:
+	ReloadAssembly (910ms)
+		BeginReloadAssembly (48ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (387ms)
+			LoadAssemblies (46ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (148ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (149ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (36ms)
+				BeforeProcessingInitializeOnLoad (13ms)
+				ProcessInitializeOnLoadAttributes (70ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003173 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 37.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.286 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1287ms)
+		BeginReloadAssembly (136ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (1095ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (265ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (582ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (37ms)
+				BeforeProcessingInitializeOnLoad (82ms)
+				ProcessInitializeOnLoadAttributes (442ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.5 MB.
+System memory in use after: 95.6 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2529.
+Total: 2.643000 ms (FindLiveObjects: 0.202300 ms CreateObjectMapping: 0.082200 ms MarkObjects: 2.297600 ms  DeleteObjects: 0.059800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.009194 seconds 
+  Import took 0.012196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5620.911913 seconds.
+  path: Assets/2d platformer winter (package 1)
+  artifactKey: Guid(b4768d414e494bc4481d668a94b83ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2d platformer winter (package 1) using Guid(b4768d414e494bc4481d668a94b83ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c2af90bd4d7218a3affe2eb1af52873') in 0.010864 seconds 
+  Import took 0.064005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/2d platformer winter (package 1)/earth 2.png
+  artifactKey: Guid(29f6989d5755f1b4fbe334d44ebc33a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2d platformer winter (package 1)/earth 2.png using Guid(29f6989d5755f1b4fbe334d44ebc33a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a66cb8a96dcf260b6112c85ef5fc741') in 0.232005 seconds 
+  Import took 0.235220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/2d platformer winter (package 1)/earth 3.png
+  artifactKey: Guid(27808588f73e8024d81a4ea7a1ec1157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2d platformer winter (package 1)/earth 3.png using Guid(27808588f73e8024d81a4ea7a1ec1157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40ee0b7bd37b6eb1b6afb5f6a2c77f6f') in 0.020545 seconds 
+  Import took 0.024420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/2d platformer winter (package 1)/snowman 1.png
+  artifactKey: Guid(284b27c9fe5ead74e97c5df20e66d992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2d platformer winter (package 1)/snowman 1.png using Guid(284b27c9fe5ead74e97c5df20e66d992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f1ecdb0c3186ce8e3ff878afc370daa') in 0.017493 seconds 
+  Import took 0.020903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/2d platformer winter (package 1)/earth 1.png
+  artifactKey: Guid(f7ae4e5931263c54c9cbb010560ebe15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2d platformer winter (package 1)/earth 1.png using Guid(f7ae4e5931263c54c9cbb010560ebe15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f94f923b1562b2234d7c604f857cce3a') in 0.022797 seconds 
+  Import took 0.026188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/2d platformer winter (package 1)/background.png
+  artifactKey: Guid(c267d2a67c862c74d868d358b4881252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2d platformer winter (package 1)/background.png using Guid(c267d2a67c862c74d868d358b4881252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6e62c6b845b2aac83f4bb508f87b796') in 0.042612 seconds 
+  Import took 0.045990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/2d platformer winter (package 1)/snowman 3.png
+  artifactKey: Guid(e0511a4867fed884face8c201d4a8b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2d platformer winter (package 1)/snowman 3.png using Guid(e0511a4867fed884face8c201d4a8b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8ab96fe6ab3f4bd42dbe26aef9962aa') in 0.022545 seconds 
+  Import took 0.025529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/2d platformer winter (package 1)/mounted platform 2.png
+  artifactKey: Guid(14d3522a2c962d3418afb4712d02f3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2d platformer winter (package 1)/mounted platform 2.png using Guid(14d3522a2c962d3418afb4712d02f3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7ff0b3c978b72e5382ed2caea185514') in 0.015818 seconds 
+  Import took 0.018973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/2d platformer winter (package 1)/earth 4.png
+  artifactKey: Guid(43a0d1d8c3148114faa6cbf0312816cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2d platformer winter (package 1)/earth 4.png using Guid(43a0d1d8c3148114faa6cbf0312816cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b35b910df66ec38f0a9d6bf498e0e10') in 0.029376 seconds 
+  Import took 0.032547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/2d platformer winter (package 1)/mounted platform 3.png
+  artifactKey: Guid(fe01dd445865ff24eb2831300a094638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2d platformer winter (package 1)/mounted platform 3.png using Guid(fe01dd445865ff24eb2831300a094638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e331b6df510ede93afc13dc2330b75fa') in 0.023924 seconds 
+  Import took 0.026859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/2d platformer winter (package 1)/mounted platform 1.png
+  artifactKey: Guid(8253f8fe10e9abf419e6b48a98980235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2d platformer winter (package 1)/mounted platform 1.png using Guid(8253f8fe10e9abf419e6b48a98980235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b129a85168ba0dba8059481f3c33e10') in 0.015725 seconds 
+  Import took 0.018850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/2d platformer winter (package 1)/mounted platform 4.png
+  artifactKey: Guid(5cab1e3282a81104087ff67c0c23dbb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2d platformer winter (package 1)/mounted platform 4.png using Guid(5cab1e3282a81104087ff67c0c23dbb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca8c7ca02137afb20111a1e26799a2b9') in 0.018700 seconds 
+  Import took 0.022186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/2d platformer winter (package 1)/snowman 2.png
+  artifactKey: Guid(2b27d20e9fb8d884daa27ade76fc6e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2d platformer winter (package 1)/snowman 2.png using Guid(2b27d20e9fb8d884daa27ade76fc6e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4d14b085bd2a8d6e47876d9ee5f035') in 0.017942 seconds 
+  Import took 0.021417 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
